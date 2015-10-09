@@ -1,0 +1,19 @@
+form li{
+   list-style: none;
+   margin-bottom:  20px;
+    }
+ form ul{
+    	padding-left: 0;
+    }
+ form textarea{
+ 	background-color: pink;
+ 	width: 400px;
+ 	height: 300px;
+} 
+lable{
+	display:block;
+    }
+input{
+	color:blue;
+	background-color: pink;
+}        
