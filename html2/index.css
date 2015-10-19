@@ -1,0 +1,20 @@
+.wrap {
+	text-align: center;
+}
+.heading h1{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 30px;
+
+}
+ol{
+	text-align: center;
+	list-style: none;
+	font-family: sans-serif;
+	font-size: 30px;
+
+}
+marquee {
+	font-size: 30px;
+	font-family: sans-serif;
+}
